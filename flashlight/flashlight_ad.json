@@ -3,8 +3,8 @@
     "ad_control":{
 
         "ad_network": {
-            "is_admob": false,
-            "is_fan": true
+            "is_admob": true,
+            "is_fan": false
           },
 
         "ad_unit": [
