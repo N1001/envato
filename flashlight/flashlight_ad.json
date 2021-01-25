@@ -1,0 +1,61 @@
+{
+    
+    "ad_control":{
+
+        "ad_network": {
+            "is_admob": false,
+            "is_fan": true
+          },
+
+        "ad_unit": [
+            {
+              "is_activated": true,
+              "is_limited": true,
+              "type": "admob_banner",
+              "id": "ca-app-pub-3940256099942544/6300978111",
+              "impressions": 15,
+              "clicks": 3,
+              "delay_ms": 3000,
+              "banned_time_hours": 1,
+              "hide_on_click": true  
+            },
+            {  
+              
+              "is_activated": true,
+              "is_limited": true,
+              "type": "fan_banner",
+              "id": "828958931181523_828958984514851",
+              "impressions": 15,
+              "clicks": 3,
+              "delay_ms": 3000,
+              "banned_time_hours": 1,
+              "hide_on_click": true  
+            },
+            
+            {  
+              
+              "is_activated": true,
+              "is_limited": true,
+              "type": "fan_interstitial",
+              "id": "828958931181523_828958987848184",
+              "impressions": 15,
+              "clicks": 3,
+              "delay_ms": 3000,
+              "banned_time_hours": 1,
+              "hide_on_click": true  
+            },
+            {
+              "is_activated": true,
+              "is_limited": true,
+              "type": "admob_interstitial",
+              "id": "ca-app-pub-3940256099942544/1033173712",
+              "impressions": 10,
+              "clicks": 2,
+              "delay_ms": 3000,
+              "banned_time_hours": 1,
+              "hide_on_click": false  
+            }
+          ]
+
+    }
+  }
